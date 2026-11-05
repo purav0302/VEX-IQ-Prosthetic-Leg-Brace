@@ -1,0 +1,56 @@
+VEX IQ Prosthetic Knee Brace
+
+Overview
+
+I designed and built a mechanical knee brace using VEX IQ robotics components for the HOSA Exploring Medical Innovations competition. The goal of this project was to explore how engineering could be used to create a supportive device that allows the knee to bend naturally. One of my biggest challenges was designing the curved structure that would fit around the upper and lower portions of the leg using rigid plastic pieces. I experimented with different arrangements of VEX IQ beams, connectors, and axles to create a stable structure while still allowing movement at the knee.
+
+I presented this project at the HOSA State Leadership Conference, where I earned 2nd place and qualified for the international competition.
+
+Components
+
+- VEX IQ structural beams
+- VEX IQ curved and angled connectors
+- VEX IQ gears and circular structural pieces
+- VEX IQ axles
+- VEX IQ pins and connectors
+- VEX IQ structural supports
+
+How It Works
+
+1. The brace consists of two main sections designed to wrap around the upper and lower parts of the leg.
+2. Each section uses rigid VEX IQ structural pieces arranged to create a curved shape around the leg.
+3. The upper and lower sections are connected by short axles positioned on both sides of the knee.
+4. These axles act as pivot points, allowing the two sections to rotate relative to each other when the knee bends.
+5. The surrounding structure provides support while allowing the knee joint to move without requiring motors or electronic components.
+
+Design and Construction
+
+I began by experimenting with different ways to create a circular structure using rigid VEX IQ pieces. Since most VEX IQ beams are straight, I had to find ways to position and connect them at different angles to form a shape that could fit around the leg.
+
+Another major challenge was connecting the upper and lower sections while still allowing the knee to bend. I used short axles on both sides of the brace to create a rotating joint. I also adjusted the placement of the beams and connectors to improve the alignment of the structure and prevent the sections from interfering with each other during movement.
+
+Throughout the construction process, I made several changes to the design to improve its stability, shape, and flexibility.
+
+Testing
+
+I tested the knee brace by positioning it around the leg and checking how the upper and lower sections moved when the knee bent. I paid particular attention to the alignment of the pivot points and whether the rigid structural pieces restricted movement.
+
+I also evaluated the curved supports to determine whether they maintained their shape and stayed aligned during movement. Based on these observations, I adjusted the placement of structural beams, connectors, and axles to improve the overall design.
+
+Future Improvements
+
+1. Develop adjustable supports to accommodate different leg sizes.
+2. Replace some rigid VEX IQ pieces with lighter and more flexible materials.
+3. Add padding to improve comfort where the brace contacts the leg.
+4. Improve the pivot mechanism to create smoother knee movement.
+5. Explore using 3D printing to manufacture custom curved supports.
+
+Timeline
+
+I started by researching knee braces and brainstorming how I could recreate their mechanical structure using VEX IQ components. My first major challenge was developing curved supports for the upper and lower sections of the leg using straight, rigid plastic beams. I experimented with several arrangements before creating a structure that followed the general shape of the leg.
+
+Next, I developed the knee joint by connecting the two sections with short axles on either side, allowing them to swivel as the knee bent. I continued adjusting the structural supports and joint alignment before completing the prototype and preparing it for the HOSA competition.
+
+Resources
+
+VEX IQ Robotics, Mechanical Engineering, Structural Design, Biomechanics, Assistive Technology, Joint Mechanisms, and Engineering Design Process.
